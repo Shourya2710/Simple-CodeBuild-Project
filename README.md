@@ -1,4 +1,4 @@
-# SimpleCodeCommitRepo
+# Simple CodeBuild Project
 - This Repository contains a buildspec.yml file and index.html file. You can modify the name in the files to give your name if you wish.
 - The index.html file contains a name and the buildspec.yml file tests to look for this name, and if it is found, the build is succeeded.
 - You can create a simple AWS CodeBuild project by following these steps:
